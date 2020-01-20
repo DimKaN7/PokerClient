@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/DimKa_N7/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_046f6349466733447606368208aecf54947d27e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DimKa_N7/.android/build-cache/161631425d3d46e7f47dee8a6a882c0498146b91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c555f528eba103641f8366449da06d29468425dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DimKa_N7/.android/build-cache/4c65878c76edc326a4a7688a740aa2f60d88bc75/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_619226df805cab7bca0ae0579720825c12afcb81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DimKa_N7/.android/build-cache/b6fb3c62ad2312eb2e5b1f00c65b9b9100426066/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_942958e93ed1a7388701cd721a2355929aa23e56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DimKa_N7/.android/build-cache/f02111b4081250b201de64ce7fc43422a5c27d89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b141482b424433283a8531694cde2dceecb9bd5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DimKa_N7/.android/build-cache/8a29337b2a0f82168cf172a88a11c2cbd757a2f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd3b6e2a949ab21640843aa59729e32a475b9fa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DimKa_N7/.android/build-cache/40d0d07d16dd07b6442d155f60ae0d1a71558ff2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3707ab2458032287551b12445ef30fa6172cf567/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7943bf205db709fa0b250e83588b3e97f1b6a04">
+        <dex dex="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0ccde5bbb5508753ff0327f8bc03326c5129a92d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DimKa_N7/.android/build-cache/322812d4fc25c7a5c5e2200a285546932e0e0265/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c503659533863ea54a0d76688ec112423a1fba2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4e1ba1d103dabf0084d7a27698fe80f0905b950d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DimKa_N7/.android/build-cache/ede361518cf12d52df529674dce439061303a2be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b798abb613018154f5c7f0302c8af70f58ada6aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DimKa_N7/.android/build-cache/ac7dbcd2024f3b33611ad2fc9e1a7ff243ba4784/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/DimKa_N7/Documents/AndroidStudioProjects/PokerClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7ffd65b8376ed389aecc503490dc1c90cc8eb44/classes.dex" />
+    </item>
+
+</items>
